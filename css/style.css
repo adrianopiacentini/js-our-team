@@ -1,0 +1,18 @@
+h1 {
+    text-align:center;
+    padding: 30px;
+    color:red;
+    font-weight:bold;
+}
+
+.lorem {
+    text-align: center;
+    padding:0 50px;
+    padding-bottom:50px;
+}
+
+.container {
+    width:90%;
+    max-width:1800px;
+}
+
